@@ -2,7 +2,8 @@ name: aif360
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python==3.9
+  - numpy
   - pip
   - pip:
     - -r requirements.txt
