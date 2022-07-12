@@ -1,0 +1,9 @@
+name: aif360
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - mumpy
+  - pip
+  - pip:
+    - git+https://github.com/Trusted-AI/AIF360.git
