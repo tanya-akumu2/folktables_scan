@@ -12,9 +12,10 @@ We use the MDSS scanning algorithm from the open sourced [AIF360 toolkit](https:
 
 ## Setup
 ```
-# create virtual env
+# create virtual env (you can also use conda)
 python -m venv aif360
-# activate it (if using windows, see note below)
+
+# activate the env
 source aif360/bin/activate
 
 # install packages
@@ -26,6 +27,6 @@ You can then run the [folktables_preprocessing.ipynb](https://github.com/tanya-a
 
 ## Useful links:
 
-[AIF360 Toolkit](https://github.com/Trusted-AI/AIF360)
-[More examples using MDSS](https://github.com/Trusted-AI/AIF360/blob/master/examples/demo_mdss_detector.ipynb)
-[MDSS Paper](https://arxiv.org/abs/1611.08292)
+[AIF360 Toolkit](https://github.com/Trusted-AI/AIF360) \
+[More examples using MDSS](https://github.com/Trusted-AI/AIF360/blob/master/examples/demo_mdss_detector.ipynb) \
+[MDSS Paper](https://arxiv.org/abs/1611.08292) \
