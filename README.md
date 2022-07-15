@@ -37,4 +37,4 @@ You can then run the [folktables_preprocessing.ipynb](https://github.com/tanya-a
 
 [AIF360 Toolkit](https://github.com/Trusted-AI/AIF360) \
 [More examples using MDSS](https://github.com/Trusted-AI/AIF360/blob/master/examples/demo_mdss_detector.ipynb) \
-[MDSS Paper](https://arxiv.org/abs/1611.08292)
+[Bias Scan Paper](https://arxiv.org/abs/1611.08292)
